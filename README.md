@@ -3,10 +3,11 @@
 Welcome to my GitHub profile! I'm a dedicated Full Stack Developer based in Toronto, Canada, with a passion for building dynamic, user-friendly applications from the ground up. I specialize in both front-end and back-end development.
 
 **About Me**
-🌟 Currently exploring Full Stack Development.
-🌱 Constantly learning and growing in the field of software development.
-💡 Enjoying the process of turning ideas into reality through code.
-📚 Actively contributing to open-source projects and learning from the community.
+
+* 🌟 Currently exploring Full Stack Development.
+* 🌱 Constantly learning and growing in the field of software development.
+* 💡 Enjoying the process of turning ideas into reality through code.
+* 📚 Actively contributing to open-source projects and learning from the community.
 
 **Tech Stack**
 

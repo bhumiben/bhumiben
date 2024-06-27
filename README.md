@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer based in Toro
 
 **About Me**
 
-* 🌟 Currently exploring Full Stack Development.
-* 🌱 Constantly learning and growing in the field of software development.
-* 💡 Enjoying the process of turning ideas into reality through code.
-* 📚 Actively contributing to open-source projects and learning from the community.
+- 🌟 Currently exploring Full Stack Development.
+- 🌱 Constantly learning and growing in the field of software development.
+- 💡 Enjoying the process of turning ideas into reality through code.
+- 📚 Actively contributing to open-source projects and learning from the community.
 
 **Tech Stack**
 
-* Languages: 🟦 JavaScript, 🐍 Python, ☕ Java, 🌐 HTML, 🎨 CSS, 🗃️ SQL
-* Frameworks: ⚛️ React, 🟩 Node.js, 🚀 Express.js, ☕ Spring Boot
-* Tools: 🗂️ Git, 🧪 Postman, 🔧 JetBrains
+- Languages: 🟦 JavaScript, 🐍 Python, ☕ Java, 🌐 HTML, 🎨 CSS, 🗃️ SQL
+- Frameworks: ⚛️ React, 🟩 Node.js, 🚀 Express.js, ☕ Spring Boot
+- Tools: 🗂️ Git, 🧪 Postman, 🔧 JetBrains
 
 **Get in Touch**
 

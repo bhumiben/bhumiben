@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer based in Toro
 
 **Tech Stack**
 
-Languages: 🟦 JavaScript, 🐍 Python, ☕ Java, 🌐 HTML, 🎨 CSS, 🗃️ SQL
-Frameworks: ⚛️ React, 🟩 Node.js, 🚀 Express.js, ☕ Spring Boot
-Tools: 🗂️ Git, 🧪 Postman, 🔧 JetBrains
+* Languages: 🟦 JavaScript, 🐍 Python, ☕ Java, 🌐 HTML, 🎨 CSS, 🗃️ SQL
+* Frameworks: ⚛️ React, 🟩 Node.js, 🚀 Express.js, ☕ Spring Boot
+* Tools: 🗂️ Git, 🧪 Postman, 🔧 JetBrains
 
 **Get in Touch**
 

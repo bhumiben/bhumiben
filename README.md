@@ -41,6 +41,6 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Developer based in Toro
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhumigoswami/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhumiben-goswami/).
 
 Thank you for visiting my GitHub. Feel free to explore my repositories and don't hesitate to reach out to me!
